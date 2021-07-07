@@ -50,12 +50,12 @@ NOTE: The axis directions I have mentioned below is in a configuration where the
 - <kbd>F</kbd>: To move the camera in a vertical direction (DOWN) in the global space (along -ve y-axis)
 
 ### Geometrical figure specific
-- <kbd>W</kbd>: To move the geometrical figure in a direction normal to the plane of the screen into the screen (along -ve z axis)
-- <kbd>S</kbd>: To move the geometrical figure in a direction normal to the plane of the screen out of the the screen (along +ve z axis)
-- <kbd>A</kbd>: To move the geometrical figure in a sideways direction (left side) in the global space (along -ve x-axis)
-- <kbd>D</kbd>: To move the geometrical figure in a sideways direction (right side) in the global space (along +ve x-axis)
-- <kbd>R</kbd>: To move the geometrical figure in a vertical direction (UP) in the global space (along +ve y-axis)
-- <kbd>F</kbd>: To move the geometrical figure in a vertical direction (DOWN) in the global space (along -ve y-axis)
+- <kbd>U</kbd>: To move the geometrical figure in a direction normal to the plane of the screen into the screen (along -ve z axis)
+- <kbd>J</kbd>: To move the geometrical figure in a direction normal to the plane of the screen out of the the screen (along +ve z axis)
+- <kbd>H</kbd>: To move the geometrical figure in a sideways direction (left side) in the global space (along -ve x-axis)
+- <kbd>K</kbd>: To move the geometrical figure in a sideways direction (right side) in the global space (along +ve x-axis)
+- <kbd>O</kbd>: To move the geometrical figure in a vertical direction (UP) in the global space (along +ve y-axis)
+- <kbd>L</kbd>: To move the geometrical figure in a vertical direction (DOWN) in the global space (along -ve y-axis)
 
 ## Rotation and orientation related
 - <kbd>Z</kbd>: Starts rotating the geometric figure about an axis passing through a fixed point in the figure
